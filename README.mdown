@@ -1,0 +1,9 @@
+# PiratePad Etherpad for AtriumED
+* This feature allows you to add and embed PiratePad.net EtherPads to an OpenAtrium site. 
+* It currently depends on the PiratePad module: https://github.com/markwk/piratepad
+
+## Note:
+* Depending on your situation or your preference for different etherpad copycat setups available (like primarypad.com http://sync.in or http://typewith.me), these modules should be really easy to adapt for your use case. A simple find and replace with "piratepad" => "primarypad" with the functions and file names and changing the urls should get you there. Hopefully!
+
+## Thanks and support go out to the Pirate Party http://www.piratpartiet.se/
+

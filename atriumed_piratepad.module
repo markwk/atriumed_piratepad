@@ -1,0 +1,10 @@
+<?php
+
+include_once('atriumed_piratepad.features.inc');
+
+/**
+* Implementation of hook_init().
+*/
+function atriumed_piratepad_init() {
+  drupal_add_css(drupal_get_path('module', 'atriumed_piratepad') .'/atriumed_piratepad.css');
+}

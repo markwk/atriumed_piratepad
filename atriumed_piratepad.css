@@ -1,0 +1,10 @@
+#features-menu li a.icon-writingpads span.icon {
+  background:url(images/etherpad_40x40.png) no-repeat;
+}
+
+span.spaces-feature.node-piratepad { background:url(images/etherpad_20x20.png) no-repeat; height:20px; width:20px; }
+
+/* not working
+ .feature .feature-atriumed-quizlet {
+  background:transparent url(images/icon.png) no-repeat;
+} */

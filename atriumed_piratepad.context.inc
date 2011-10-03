@@ -21,6 +21,11 @@ function atriumed_piratepad_context_default_contexts() {
         'node_form' => '1',
       ),
     ),
+    'path' => array(
+      'values' => array(
+        '*/viewpad' => '*/viewpad',
+      ),
+    ),
     'views' => array(
       'values' => array(
         'atriumed_piratepad' => 'atriumed_piratepad',

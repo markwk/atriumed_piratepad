@@ -94,7 +94,7 @@ function atriumed_piratepad_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'form_build_id_piratepad';
-  $strongarm->value = 'form-fa9689268abfff496cf63943b97f4bdb';
+  $strongarm->value = 'form-df7fbdd0a86a617e69f4b99ece2d7182';
   $export['form_build_id_piratepad'] = $strongarm;
 
   $strongarm = new stdClass;

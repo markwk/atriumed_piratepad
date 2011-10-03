@@ -70,7 +70,8 @@ function atriumed_piratepad_user_default_permissions() {
   $permissions['view piratepad'] = array(
     'name' => 'view piratepad',
     'roles' => array(
-      '0' => 'authenticated user',
+      '0' => 'anonymous user',
+      '1' => 'authenticated user',
     ),
   );
 

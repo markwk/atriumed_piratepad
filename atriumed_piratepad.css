@@ -4,6 +4,9 @@
 
 span.spaces-feature.node-piratepad { background:url(images/etherpad_20x20.png) no-repeat; height:20px; width:20px; }
 
+.feature .feature-atriumed_piratepad { 
+	background:url(images/etherpad_20x20.png) no-repeat; height:20px; width:20px; }
+
 /* not working
  .feature .feature-atriumed-quizlet {
   background:transparent url(images/icon.png) no-repeat;
